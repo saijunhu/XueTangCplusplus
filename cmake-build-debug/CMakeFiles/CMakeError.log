@@ -1,0 +1,20 @@
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /Users/Atlantis/My Projects/C:C++/MOOC_C++/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_18421/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_18421.dir/build.make CMakeFiles/cmTC_18421.dir/build
+CMakeFiles/cmTC_18421.dir/build.make:64: *** target pattern contains no `%'.  Stop.
+make: *** [cmTC_18421/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /Users/Atlantis/My Projects/C:C++/MOOC_C++/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d9c83/fast"
+/Library/Developer/CommandLineTools/usr/bin/make -f CMakeFiles/cmTC_d9c83.dir/build.make CMakeFiles/cmTC_d9c83.dir/build
+CMakeFiles/cmTC_d9c83.dir/build.make:64: *** target pattern contains no `%'.  Stop.
+make: *** [cmTC_d9c83/fast] Error 2
+
+
+
