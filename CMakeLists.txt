@@ -3,4 +3,4 @@ project(MOOC_C__)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(MOOC_C__ main.cpp)
+add_executable(MOOC_C__  c12-1.cpp)

@@ -57,38 +57,38 @@ include CMakeFiles/MOOC_C__.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/MOOC_C__.dir/flags.make
 
-CMakeFiles/MOOC_C__.dir/main.cpp.o: CMakeFiles/MOOC_C__.dir/flags.make
-CMakeFiles/MOOC_C__.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/Atlantis/My Projects/C:C++/MOOC_C++/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/MOOC_C__.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MOOC_C__.dir/main.cpp.o -c "/Users/Atlantis/My Projects/C:C++/MOOC_C++/main.cpp"
+CMakeFiles/MOOC_C__.dir/c12-1.cpp.o: CMakeFiles/MOOC_C__.dir/flags.make
+CMakeFiles/MOOC_C__.dir/c12-1.cpp.o: ../c12-1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/Users/Atlantis/My Projects/C:C++/MOOC_C++/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/MOOC_C__.dir/c12-1.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MOOC_C__.dir/c12-1.cpp.o -c "/Users/Atlantis/My Projects/C:C++/MOOC_C++/c12-1.cpp"
 
-CMakeFiles/MOOC_C__.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MOOC_C__.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/Atlantis/My Projects/C:C++/MOOC_C++/main.cpp" > CMakeFiles/MOOC_C__.dir/main.cpp.i
+CMakeFiles/MOOC_C__.dir/c12-1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MOOC_C__.dir/c12-1.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/Users/Atlantis/My Projects/C:C++/MOOC_C++/c12-1.cpp" > CMakeFiles/MOOC_C__.dir/c12-1.cpp.i
 
-CMakeFiles/MOOC_C__.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MOOC_C__.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/Atlantis/My Projects/C:C++/MOOC_C++/main.cpp" -o CMakeFiles/MOOC_C__.dir/main.cpp.s
+CMakeFiles/MOOC_C__.dir/c12-1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MOOC_C__.dir/c12-1.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/Users/Atlantis/My Projects/C:C++/MOOC_C++/c12-1.cpp" -o CMakeFiles/MOOC_C__.dir/c12-1.cpp.s
 
-CMakeFiles/MOOC_C__.dir/main.cpp.o.requires:
+CMakeFiles/MOOC_C__.dir/c12-1.cpp.o.requires:
 
-.PHONY : CMakeFiles/MOOC_C__.dir/main.cpp.o.requires
+.PHONY : CMakeFiles/MOOC_C__.dir/c12-1.cpp.o.requires
 
-CMakeFiles/MOOC_C__.dir/main.cpp.o.provides: CMakeFiles/MOOC_C__.dir/main.cpp.o.requires
-	$(MAKE) -f CMakeFiles/MOOC_C__.dir/build.make CMakeFiles/MOOC_C__.dir/main.cpp.o.provides.build
-.PHONY : CMakeFiles/MOOC_C__.dir/main.cpp.o.provides
+CMakeFiles/MOOC_C__.dir/c12-1.cpp.o.provides: CMakeFiles/MOOC_C__.dir/c12-1.cpp.o.requires
+	$(MAKE) -f CMakeFiles/MOOC_C__.dir/build.make CMakeFiles/MOOC_C__.dir/c12-1.cpp.o.provides.build
+.PHONY : CMakeFiles/MOOC_C__.dir/c12-1.cpp.o.provides
 
-CMakeFiles/MOOC_C__.dir/main.cpp.o.provides.build: CMakeFiles/MOOC_C__.dir/main.cpp.o
+CMakeFiles/MOOC_C__.dir/c12-1.cpp.o.provides.build: CMakeFiles/MOOC_C__.dir/c12-1.cpp.o
 
 
 # Object files for target MOOC_C__
 MOOC_C___OBJECTS = \
-"CMakeFiles/MOOC_C__.dir/main.cpp.o"
+"CMakeFiles/MOOC_C__.dir/c12-1.cpp.o"
 
 # External object files for target MOOC_C__
 MOOC_C___EXTERNAL_OBJECTS =
 
-MOOC_C__: CMakeFiles/MOOC_C__.dir/main.cpp.o
+MOOC_C__: CMakeFiles/MOOC_C__.dir/c12-1.cpp.o
 MOOC_C__: CMakeFiles/MOOC_C__.dir/build.make
 MOOC_C__: CMakeFiles/MOOC_C__.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/Users/Atlantis/My Projects/C:C++/MOOC_C++/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable MOOC_C__"
@@ -99,7 +99,7 @@ CMakeFiles/MOOC_C__.dir/build: MOOC_C__
 
 .PHONY : CMakeFiles/MOOC_C__.dir/build
 
-CMakeFiles/MOOC_C__.dir/requires: CMakeFiles/MOOC_C__.dir/main.cpp.o.requires
+CMakeFiles/MOOC_C__.dir/requires: CMakeFiles/MOOC_C__.dir/c12-1.cpp.o.requires
 
 .PHONY : CMakeFiles/MOOC_C__.dir/requires
 

@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/MOOC_C__.dir/main.cpp.o"
+  "CMakeFiles/MOOC_C__.dir/c12-1.cpp.o"
   "MOOC_C__.pdb"
   "MOOC_C__"
 )

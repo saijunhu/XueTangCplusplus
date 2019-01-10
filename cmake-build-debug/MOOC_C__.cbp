@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/Atlantis/My Projects/C:C++/MOOC_C++/main.cpp">
+		<Unit filename="/Users/Atlantis/My Projects/C:C++/MOOC_C++/c12-1.cpp">
 			<Option target="MOOC_C__"/>
 		</Unit>
 		<Unit filename="/Users/Atlantis/My Projects/C:C++/MOOC_C++/CMakeLists.txt">

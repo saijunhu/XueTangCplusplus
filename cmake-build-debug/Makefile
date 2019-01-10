@@ -123,32 +123,32 @@ MOOC_C__/fast:
 	$(MAKE) -f CMakeFiles/MOOC_C__.dir/build.make CMakeFiles/MOOC_C__.dir/build
 .PHONY : MOOC_C__/fast
 
-main.o: main.cpp.o
+c12-1.o: c12-1.cpp.o
 
-.PHONY : main.o
+.PHONY : c12-1.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/MOOC_C__.dir/build.make CMakeFiles/MOOC_C__.dir/main.cpp.o
-.PHONY : main.cpp.o
+c12-1.cpp.o:
+	$(MAKE) -f CMakeFiles/MOOC_C__.dir/build.make CMakeFiles/MOOC_C__.dir/c12-1.cpp.o
+.PHONY : c12-1.cpp.o
 
-main.i: main.cpp.i
+c12-1.i: c12-1.cpp.i
 
-.PHONY : main.i
+.PHONY : c12-1.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/MOOC_C__.dir/build.make CMakeFiles/MOOC_C__.dir/main.cpp.i
-.PHONY : main.cpp.i
+c12-1.cpp.i:
+	$(MAKE) -f CMakeFiles/MOOC_C__.dir/build.make CMakeFiles/MOOC_C__.dir/c12-1.cpp.i
+.PHONY : c12-1.cpp.i
 
-main.s: main.cpp.s
+c12-1.s: c12-1.cpp.s
 
-.PHONY : main.s
+.PHONY : c12-1.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/MOOC_C__.dir/build.make CMakeFiles/MOOC_C__.dir/main.cpp.s
-.PHONY : main.cpp.s
+c12-1.cpp.s:
+	$(MAKE) -f CMakeFiles/MOOC_C__.dir/build.make CMakeFiles/MOOC_C__.dir/c12-1.cpp.s
+.PHONY : c12-1.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... MOOC_C__"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... c12-1.o"
+	@echo "... c12-1.i"
+	@echo "... c12-1.s"
 .PHONY : help
 
 

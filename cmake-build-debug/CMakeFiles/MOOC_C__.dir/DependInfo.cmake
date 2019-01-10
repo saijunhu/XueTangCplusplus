@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/Atlantis/My Projects/C:C++/MOOC_C++/main.cpp" "/Users/Atlantis/My Projects/C:C++/MOOC_C++/cmake-build-debug/CMakeFiles/MOOC_C__.dir/main.cpp.o"
+  "/Users/Atlantis/My Projects/C:C++/MOOC_C++/c12-1.cpp" "/Users/Atlantis/My Projects/C:C++/MOOC_C++/cmake-build-debug/CMakeFiles/MOOC_C__.dir/c12-1.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

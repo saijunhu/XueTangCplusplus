@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/Atlantis/My Projects/C:C++/MOOC_C++/main.cpp
+/Users/Atlantis/My Projects/C:C++/MOOC_C++/c12-1.cpp
 iostream
+-
+stdexcept
+-
+cmath
 -
 
