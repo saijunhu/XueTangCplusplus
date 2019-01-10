@@ -11,7 +11,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c22f37d0-0ebb-4269-9aff-9513b7465245" name="Default" comment="" />
+    <list default="true" id="c22f37d0-0ebb-4269-9aff-9513b7465245" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,8 +38,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="242">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -182,7 +185,7 @@
       <workItem from="1546566529374" duration="138000" />
       <workItem from="1546652055060" duration="6946000" />
       <workItem from="1546682297032" duration="12612000" />
-      <workItem from="1546916867279" duration="31250000" />
+      <workItem from="1546916867279" duration="32354000" />
     </task>
     <task id="LOCAL-00001" summary="repo initialize">
       <created>1545875276738</created>
@@ -195,7 +198,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56336000" />
+    <option name="totallyTimeSpent" value="57440000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -208,8 +211,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="73" width="1232" height="727" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19735755" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19735755" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32857144" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32857144" />
       <window_info anchor="bottom" id="CMake" order="7" weight="0.32857144" />
@@ -218,7 +222,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32698414" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32539684" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32857144" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32857144" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -689,8 +693,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
